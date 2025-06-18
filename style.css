@@ -1,0 +1,40 @@
+body{text-align: center;
+background-color: rgb(88, 88, 88);}
+.r1{
+  height: 0.5px;
+  background-color: black;
+   margin: auto;
+   margin-top: 40px;
+  height: 5px; 
+  background-color: black; 
+  border: none; 
+  width: 50%;
+text-align: center;
+}
+.texte{text-align:center;
+  font-size: larger;
+}
+.lien {
+	color: black;
+}
+header{ 
+	
+	height:20%;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	flex-direction:column;
+	background:linear-gradient(black,rgb(88, 88, 88));
+}
+h1{color: white;
+}
+footer{
+	height:20%;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	flex-direction:column;
+	background:linear-gradient(rgb(88, 88, 88),black);
+}
+h3{color: white;
+}
